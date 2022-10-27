@@ -9,19 +9,18 @@ html body{
     font-family:'Outfit', sans-serif;
 }
 body{
-    margin: 0 auto;
+    margin:auto;
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 1440px;
-    height: 800px;
+    
     background-color: hsl(220, 15%, 55%);
 }
 #fondo{
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 1400px;
+    width: 1440px;
     height: 800px;
     background-color: hsl(212, 45%, 89%);
     box-shadow: 20px 20px 20px 20px rgba(0, 0, 0, 0.2);
